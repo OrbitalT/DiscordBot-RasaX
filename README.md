@@ -7,7 +7,7 @@ Well because it hasn't been done yet from the few days I've been looking at ever
 # Why not Python?
 I wanted to jump off a bridge after looking at the documentation, i'm not made for python.
 
-# Goals / Features / Dreams I hav
+# Goals / Features / Dreams I have
 - [ ] Bot Framework (Command Handler) - v1
 - [ ] Auto Restart - v2
 - [ ] Auto Updates -v2
