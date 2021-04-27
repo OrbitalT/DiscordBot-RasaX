@@ -9,13 +9,13 @@ I wanted to jump off a bridge after looking at the documentation, i'm not made f
 
 # Goals / Features / Dreams I have
 - [ ] Bot Framework (Command Handler) - v1
+- [ ] Webhook Integration (API, Socket.IO, Express) -v1
+- [ ] Does Bot send and receive in channel? -v1
+- [ ] Does Bot send and receive in PM? -v2
 - [ ] Auto Restart - v2
 - [ ] Auto Updates -v2
 - [ ] Error Handling -v2
-- [ ] Webhook Integration (API, Socket.IO, Express) -v1
 - [ ] Probably something with n8n -v2
-- [ ] Does Bot send and receive in channel? -v1
-- [ ] Does Bot send and receive in PM? -v1
   
 # Install
 - Install NodeJS (14.x) and NPM (21.x)
