@@ -1,13 +1,13 @@
 # DiscordBot-RasaX
 Discord Bot in NodeJS which integrates with RasaX
 
-## Why?
+# Why?
 Well because it hasn't been done yet from the few days I've been looking at everything so here we go
 
-## Why not Python?
+# Why not Python?
 I wanted to jump off a bridge after looking at the documentation, i'm not made for python.
 
-## Goals / Features / Dreams I hav
+# Goals / Features / Dreams I hav
 - [ ] Bot Framework (Command Handler) - v1
 - [ ] Auto Restart - v2
 - [ ] Auto Updates -v2
@@ -17,7 +17,7 @@ I wanted to jump off a bridge after looking at the documentation, i'm not made f
 - [ ] Does Bot send and receive in channel? -v1
 - [ ] Does Bot send and receive in PM? -v1
   
-## Install
+# Install
 - Install NodeJS (14.x) and NPM (21.x)
 - Clone Repo
 - Install npm update?
