@@ -8,8 +8,8 @@ Well because it hasn't been done yet from the few days I've been looking at ever
 I wanted to jump off a bridge after looking at the documentation, i'm not made for python.
 
 # Goals / Features / Dreams I have
-- [ ] Bot Framework (Command Handler) - v1
-- [ ] Webhook Integration (API, Socket.IO, Express) -v1
+- [x] Bot Framework (Command Handler) - v1
+- [ ] Webhook Integration (API, Socket.IO, Express?) -v1
 - [ ] Does Bot send and receive in channel? -v1
 - [ ] Does Bot send and receive in PM? -v2
 - [ ] Auto Restart - v2
