@@ -10,8 +10,8 @@ I wanted to jump off a bridge after looking at the documentation, i'm not made f
 # Goals / Features / Dreams I have
 - [x] Bot Framework (Command Handler With WOKCommands) - v1
 - [x] Webhook Integration (API) -v1
-- [ ] Does Bot send and receive in channel? -v1
-- [ ] Does Bot send and receive in PM? -v2
+- [X] Does Bot send and receive in channel? -v1
+- [X] Does Bot send and receive in PM? -v2
 - [ ] Auto Restart - v2
 - [ ] Auto Updates -v2
 - [ ] Error Handling -v2

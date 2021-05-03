@@ -1,4 +1,6 @@
 {
     "token": "TOKEN",
-    "prefix": "!"
+    "prefix": "!",
+    "host": "IP OF RASA SERVER",
+    "port": "PORT FOR RASA API DEFAULT IS 5005"
 }
